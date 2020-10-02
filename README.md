@@ -1,5 +1,3 @@
-#### This code was credited n copyright: Faviansyah Arianda Pallas (https://github.com/favians)
-
 # Vue
 
 > For First Init Vue Learner
@@ -36,6 +34,8 @@ $ yarn generate
 13. Feature Unittest
 14. Feature Axios
 
+## Deploying
+Check this link for deployment at Github Pages : [link](https://medium.com/@MFaridZia/deploy-vue-js-to-github-pages-ef50593d615b)
 
-
+## Others
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
